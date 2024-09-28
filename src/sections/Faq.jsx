@@ -1,6 +1,6 @@
 import { Element } from "react-scroll"
 import { faq } from "../constant/index"
-import FaqItem from "../components/Faqitem";
+import FaqItem from "../components/FaqItem";
 
 
 const Faq = () => {
